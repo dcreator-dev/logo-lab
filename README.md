@@ -37,9 +37,11 @@ Logo Lab — инструмент, с помощью которого я раз�
 
 ---
 
-## 🚀 Live Demo
+## 📂 Repository Status
 
-👉 [dcreator-dev.github.io](https://dcreator-dev.github.io/)
+✅ Core logic implemented  
+✅ UI/UX and brand themes ready  
+🚀 Deployment to GitHub Pages: In progress  
 
 ---
 
